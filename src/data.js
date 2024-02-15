@@ -105,10 +105,10 @@ export const social = [
     icon: <FiInstagram />,
     href: "https://www.instagram.com/luckideveloper/",
   },
-  {
-    icon: <FiCoffee />,
-    href: "https://www.buymeacoffee.com/Luckidev21",
-  },
+  // {
+  //   icon: <FiCoffee />,
+  //   href: "https://www.buymeacoffee.com/Luckidev21",
+  // },
 ];
 
 // companies
