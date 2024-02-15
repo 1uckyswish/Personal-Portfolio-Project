@@ -22,11 +22,11 @@ function About() {
               Noel Guillen
             </h2>
             <p className='mb-4 text-accent'>
-              Frontend Web Developer
+              Full-Stack Web Developer
             </p>
             <hr className='opacity-5' />
             <p className='mb-8 text-xl'>
-              Passionate front-end developer with nearly 2 years of experience. I excel in tackling complex challenges and delivering high-quality results. My expertise lies in HTML, CSS, JavaScript, and React. I am a team player with a commitment to continuous learning.
+              Passionate Full-Stack Developer with nearly 2 years of experience. I excel in tackling complex challenges and delivering high-quality results. My expertise lies in HTML, CSS, JavaScript, and React. I am a team player with a commitment to continuous learning.
             </p>
           </div>
           <button className='transition-all btn btn-md bg-accent hover:bg-secondary-hover rounded-xl'>
