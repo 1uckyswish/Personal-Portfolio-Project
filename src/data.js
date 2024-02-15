@@ -188,19 +188,19 @@ export const projectsData = [
     category: "Vanilla JS",
     url: "https://lglbyevan.com/",
   },
-  {
+   {
     id: "9",
-    image: Book,
-    name: "Bibliophily",
-    category: "Vanilla JS",
-    url: "https://bibliophily.netlify.app/",
-  },
-  {
-    id: "10",
     image: Baking,
     name: "Bakery Shop",
     category: "Vanilla JS",
     url: "https://tous-les-jours.netlify.app/",
+  },
+  {
+    id: "10",
+    image: Book,
+    name: "Bibliophily",
+    category: "Vanilla JS",
+    url: "https://bibliophily.netlify.app/",
   },
   {
     id: "11",
