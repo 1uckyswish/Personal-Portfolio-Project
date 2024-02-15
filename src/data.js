@@ -36,6 +36,7 @@ import Poke from "./assets/img/projects/pokemon.webp";
 import Player from "./assets/img/projects/player.webp";
 import Insta from "./assets/img/projects/insta.webp";
 import Git from "./assets/img/projects/github.webp";
+import Baking from "./assets/img/projects/baking.webp";
 
 // skills images
 import SkillImg1 from "./assets/img/skills/html5.png";
@@ -196,22 +197,29 @@ export const projectsData = [
   },
   {
     id: "10",
+    image: Baking,
+    name: "Bakery Shop",
+    category: "Vanilla JS",
+    url: "https://tous-les-jours.netlify.app/",
+  },
+  {
+    id: "11",
     image: Store,
     name: "Fake Store",
     category: "React",
     url: "https://noelfakestore.netlify.app/",
   },
   {
-    id: "11",
+    id: "12",
     image: Weather,
     name: "Weather Forecast",
     category: "React",
     url: "https://weatherbynoel.netlify.app/",
   },
   {
-    id: "12",
+    id: "13",
     image: Poke,
-    name: "pokemon generator",
+    name: "Pokemon Generator",
     category: "Vanilla JS",
     url: "https://pokemongeneratorapi.netlify.app/",
   },
