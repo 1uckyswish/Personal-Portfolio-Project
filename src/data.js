@@ -16,6 +16,8 @@ import {
   FiGlobe,
 } from "react-icons/fi";
 
+import { SiCodewars } from "react-icons/si";
+
 // companies icons
 import FreelancerBrandIcon from "./assets/img/brands/freelancer.png";
 import UpworkBrandIcon from "./assets/img/brands/upwork.png";
@@ -94,6 +96,10 @@ export const social = [
   {
     icon: <FiGithub />,
     href: "https://github.com/1uckyswish",
+  },
+  {
+    icon: <SiCodewars />,
+    href: "https://www.codewars.com/users/NoelGuillen",
   },
   {
     icon: <FiInstagram />,
