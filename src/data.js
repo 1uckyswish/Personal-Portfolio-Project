@@ -365,7 +365,7 @@ export const contact = [
   {
     icon: <FiMapPin />,
     title: "Location",
-    subtitle: "United States",
+    subtitle: "Charlotte, North Carolina, United States",
     // description: 'Serving worldwide',
   },
 ];
