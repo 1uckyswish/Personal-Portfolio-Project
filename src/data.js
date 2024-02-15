@@ -3,7 +3,6 @@ import {
   FiLinkedin,
   FiInstagram,
   FiGithub,
-  FiDribbble,
   FiCoffee,
   FiLayout,
   FiSettings,
