@@ -178,12 +178,12 @@ export const projectsData = [
     category: "Vanilla JS",
     url: "https://shopethereal.netlify.app/shop",
   },
-  {
+   {
     id: "7",
-    image: Git,
-    name: "Github Finder",
-    category: "React",
-    url: "https://reactgithubapi.vercel.app/",
+    image: Baking,
+    name: "Bakery Shop",
+    category: "Vanilla JS",
+    url: "https://tous-les-jours.netlify.app/",
   },
    {
     id: "8",
@@ -199,13 +199,14 @@ export const projectsData = [
     category: "Vanilla JS",
     url: "https://lglbyevan.com/",
   },
-   {
+  {
     id: "10",
-    image: Baking,
-    name: "Bakery Shop",
-    category: "Vanilla JS",
-    url: "https://tous-les-jours.netlify.app/",
+    image: Git,
+    name: "Github Finder",
+    category: "React",
+    url: "https://reactgithubapi.vercel.app/",
   },
+  
   {
     id: "11",
     image: Book,
