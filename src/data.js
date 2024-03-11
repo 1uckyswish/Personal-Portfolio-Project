@@ -30,7 +30,7 @@ import Book from "./assets/img/projects/book.webp";
 import House from "./assets/img/projects/house.webp";
 import Lgl from "./assets/img/projects/lgl.webp";
 import Net from "./assets/img/projects/net.webp";
-import Store from "./assets/img/projects/store.webp";
+import Store from "./assets/img/projects/shop.webp";
 import Sweet from "./assets/img/projects/recipe.webp";
 import Weather from "./assets/img/projects/weather.webp";
 import Poke from "./assets/img/projects/pokemon.webp";
@@ -171,48 +171,47 @@ export const projectsData = [
     category: "React",
     url: "https://netflixnoel.netlify.app/",
   },
-
-  {
+   {
     id: "6",
+    image: Store,
+    name: "Shop Ethereal",
+    category: "Vanilla JS",
+    url: "https://shopethereal.netlify.app/shop",
+  },
+  {
+    id: "7",
     image: Git,
     name: "Github Finder",
     category: "React",
     url: "https://reactgithubapi.vercel.app/",
   },
    {
-    id: "7",
+    id: "8",
     image: Sweet,
     name: "Edamame Recipe Cooking",
     category: "React",
     url: "https://edamamefinder.netlify.app/",
   },
   {
-    id: "8",
+    id: "9",
     image: Lgl,
     name: "Looking Good Landscape",
     category: "Vanilla JS",
     url: "https://lglbyevan.com/",
   },
    {
-    id: "9",
+    id: "10",
     image: Baking,
     name: "Bakery Shop",
     category: "Vanilla JS",
     url: "https://tous-les-jours.netlify.app/",
   },
   {
-    id: "10",
+    id: "11",
     image: Book,
     name: "Bibliophily",
     category: "Vanilla JS",
     url: "https://bibliophily.netlify.app/",
-  },
-  {
-    id: "11",
-    image: Store,
-    name: "Fake Store",
-    category: "React",
-    url: "https://noelfakestore.netlify.app/",
   },
   {
     id: "12",
