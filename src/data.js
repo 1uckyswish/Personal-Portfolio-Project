@@ -38,6 +38,7 @@ import Player from "./assets/img/projects/player.webp";
 import Insta from "./assets/img/projects/insta.webp";
 import Git from "./assets/img/projects/github.webp";
 import Baking from "./assets/img/projects/baking.webp";
+import Budget from "./assets/img/projects/Budget.webp";
 
 // skills images
 import SkillImg1 from "./assets/img/skills/html5.png";
@@ -185,22 +186,29 @@ export const projectsData = [
     category: "Vanilla JS",
     url: "https://tous-les-jours.netlify.app/",
   },
-   {
+  {
     id: "8",
+    image: Budget,
+    name: "Finance Tracker",
+    category: "FullStack",
+    url: "https://budgetfinancetracker.vercel.app/",
+  },
+   {
+    id: "9",
     image: Sweet,
     name: "Edamame Recipe Cooking",
     category: "React",
     url: "https://edamamefinder.netlify.app/",
   },
   {
-    id: "9",
+    id: "10",
     image: Lgl,
     name: "Looking Good Landscape",
     category: "Vanilla JS",
     url: "https://lglbyevan.com/",
   },
   {
-    id: "10",
+    id: "11",
     image: Git,
     name: "Github Finder",
     category: "React",
@@ -208,21 +216,21 @@ export const projectsData = [
   },
   
   {
-    id: "11",
+    id: "12",
     image: Book,
     name: "Bibliophily",
     category: "Vanilla JS",
     url: "https://bibliophily.netlify.app/",
   },
   {
-    id: "12",
+    id: "13",
     image: Weather,
     name: "Weather Forecast",
     category: "React",
     url: "https://weatherbynoel.netlify.app/",
   },
   {
-    id: "13",
+    id: "14",
     image: Poke,
     name: "Pokemon Generator",
     category: "Vanilla JS",
