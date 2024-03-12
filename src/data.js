@@ -38,7 +38,8 @@ import Player from "./assets/img/projects/player.webp";
 import Insta from "./assets/img/projects/insta.webp";
 import Git from "./assets/img/projects/github.webp";
 import Baking from "./assets/img/projects/baking.webp";
-import Budget from "./assets/img/projects/Budget.webp";
+import Budget from "./assets/img/projects/budget.webp";
+
 
 // skills images
 import SkillImg1 from "./assets/img/skills/html5.png";
