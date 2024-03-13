@@ -245,11 +245,12 @@ export const projectsNav = [
     name: "All",
   },
   {
-    name: "React",
-  },
-  {
     name: "FullStack",
   },
+  {
+    name: "React",
+  },
+
   {
     name: "Vanilla JS",
   },
