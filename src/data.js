@@ -216,27 +216,27 @@ export const projectsData = [
     url: "https://reactgithubapi.vercel.app/",
   },
   
+  // {
+  //   id: "12",
+  //   image: Book,
+  //   name: "Bibliophily",
+  //   category: "Vanilla JS",
+  //   url: "https://bibliophily.netlify.app/",
+  // },
   {
     id: "12",
-    image: Book,
-    name: "Bibliophily",
-    category: "Vanilla JS",
-    url: "https://bibliophily.netlify.app/",
-  },
-  {
-    id: "13",
     image: Weather,
     name: "Weather Forecast",
     category: "React",
     url: "https://weatherbynoel.netlify.app/",
   },
-  {
-    id: "14",
-    image: Poke,
-    name: "Pokemon Generator",
-    category: "Vanilla JS",
-    url: "https://pokemongeneratorapi.netlify.app/",
-  },
+  // {
+  //   id: "14",
+  //   image: Poke,
+  //   name: "Pokemon Generator",
+  //   category: "Vanilla JS",
+  //   url: "https://pokemongeneratorapi.netlify.app/",
+  // },
 ];
 
 // projects
