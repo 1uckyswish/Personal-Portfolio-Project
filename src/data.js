@@ -150,7 +150,7 @@ export const projectsData = [
     image: Insta,
     name: "Instagram Clone",
     category: "FullStack",
-    url: "https://instagram-vite.netlify.app/",
+    url: "https://instagram-view.netlify.app/",
   },
   {
     id: "3",
