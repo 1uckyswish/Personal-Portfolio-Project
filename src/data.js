@@ -171,7 +171,7 @@ export const projectsData = [
     image: Net,
     name: "Netflix Clone",
     category: "React",
-    url: "https://netflixnoel.netlify.app/",
+    url: "https://netflixnoel.vercel.app/",
   },
    {
     id: "6",
