@@ -140,24 +140,24 @@ export const brands = [
 export const projectsData = [
   {
     id: "1",
-    image: Blur,
-    name: "Motion Blurr",
-    category: "FullStack",
-    url: "https://motionblurr.netlify.app/",
-  },
-  {
-    id: "2",
     image: Insta,
     name: "Instagram Clone",
     category: "FullStack",
     url: "https://instagram-site.vercel.app/",
   },
   {
-    id: "3",
+    id: "2",
     image: Player,
     name: "Music Player",
     category: "FullStack",
     url: "https://thereactmusicplayer.netlify.app/",
+  },
+    {
+    id: "3",
+    image: Blur,
+    name: "Motion Blurr",
+    category: "FullStack",
+    url: "https://motionblurr.netlify.app/",
   },
   {
     id: "4",
