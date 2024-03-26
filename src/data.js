@@ -164,8 +164,8 @@ export const projectsData = [
     image: Net,
     name: "Netflix Clone",
     category: "React",
-    url: "netlfix-remake.vercel.app",
-    // url: "https://netflixnoel.vercel.app/",
+    // url: "netlfix-remake.vercel.app",
+    url: "https://netlfix-remake.vercel.app/",
   },
    {
     id: "5",
