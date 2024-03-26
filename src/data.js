@@ -161,13 +161,6 @@ export const projectsData = [
   },
   {
     id: "4",
-    image: House,
-    name: "Unilife Housing",
-    category: "React",
-    url: "https://unilifehousing.netlify.app/",
-  },
-  {
-    id: "5",
     image: Net,
     name: "Netflix Clone",
     category: "React",
@@ -175,18 +168,25 @@ export const projectsData = [
     // url: "https://netflixnoel.vercel.app/",
   },
    {
-    id: "6",
+    id: "5",
     image: Store,
     name: "Shop Ethereal",
     category: "Vanilla JS",
     url: "https://shopethereal.netlify.app/shop",
   },
    {
-    id: "7",
+    id: "6",
     image: Baking,
     name: "Bakery Shop",
     category: "Vanilla JS",
     url: "https://tous-les-jours.netlify.app/",
+  },
+    {
+    id: "7",
+    image: House,
+    name: "Unilife Housing",
+    category: "React",
+    url: "https://unilifehousing.netlify.app/",
   },
   {
     id: "8",
