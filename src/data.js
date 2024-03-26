@@ -29,7 +29,7 @@ import Blur from "./assets/img/projects/motion.webp";
 import Book from "./assets/img/projects/book.webp";
 import House from "./assets/img/projects/house.webp";
 import Lgl from "./assets/img/projects/lgl.webp";
-import Net from "./assets/img/projects/net.webp";
+import Net from "./assets/img/projects/netflix.2webp.png";
 import Store from "./assets/img/projects/shop.webp";
 import Sweet from "./assets/img/projects/recipe.webp";
 import Weather from "./assets/img/projects/weather.webp";
@@ -171,7 +171,8 @@ export const projectsData = [
     image: Net,
     name: "Netflix Clone",
     category: "React",
-    url: "https://netflixnoel.vercel.app/",
+    url: "netlfix-remake.vercel.app",
+    // url: "https://netflixnoel.vercel.app/",
   },
    {
     id: "6",
