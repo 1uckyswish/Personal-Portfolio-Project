@@ -154,13 +154,6 @@ export const projectsData = [
   },
     {
     id: "3",
-    image: Blur,
-    name: "Motion Blurr",
-    category: "FullStack",
-    url: "https://motionblurr.netlify.app/",
-  },
-  {
-    id: "4",
     image: Net,
     name: "Netflix Clone",
     category: "React",
@@ -168,18 +161,25 @@ export const projectsData = [
     url: "https://netflix-noel.vercel.app/",
   },
    {
-    id: "5",
+    id: "4",
     image: Store,
     name: "Shop Ethereal",
     category: "Vanilla JS",
     url: "https://shopethereal.netlify.app/shop",
   },
    {
-    id: "6",
+    id: "5",
     image: Baking,
     name: "Bakery Shop",
     category: "Vanilla JS",
     url: "https://tous-les-jours.netlify.app/",
+  },
+    {
+    id: "6",
+    image: Blur,
+    name: "Motion Blurr",
+    category: "FullStack",
+    url: "https://motionblurr.netlify.app/",
   },
     {
     id: "7",
