@@ -29,7 +29,7 @@ import Blur from "./assets/img/projects/motion.webp";
 import Book from "./assets/img/projects/book.webp";
 import House from "./assets/img/projects/house.webp";
 import Lgl from "./assets/img/projects/lgl.webp";
-import Net from "./assets/img/projects/netflix.2webp.png";
+import Net from "./assets/img/projects/starwars.webp";
 import Store from "./assets/img/projects/shop.webp";
 import Sweet from "./assets/img/projects/recipe.webp";
 import Weather from "./assets/img/projects/weather.webp";
