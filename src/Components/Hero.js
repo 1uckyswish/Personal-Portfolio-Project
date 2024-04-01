@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
 // import portrait image
-import noelImg from '../assets/img/noelsuit2.webp';
+import noelImg from '../assets/img/noelbanner.webp';
 
 function Hero() {
   return (
@@ -10,7 +10,7 @@ function Hero() {
         <div className="flex items-center h-full pt-8">
         {/* left side */}
       <div className="hidden lg:flex flex-1 justify-end items-end h-full">
-  <img src={noelImg} alt='profile-picture' className="max-w-full max-h-full pt-20" />
+  //* <img src={noelImg} alt='profile-picture' className="max-w-full max-h-full pt-20" />
 </div>
         {/*right side */}
         <div className="flex-1 flex flex-col items-center lg:items-start">
