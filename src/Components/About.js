@@ -26,7 +26,7 @@ function About() {
             </p>
             <hr className='opacity-5' />
             <p className='mb-8 text-xl'>
-              Passionate Full-Stack Developer with nearly 2 years of experience. I excel in tackling complex challenges and delivering high-quality results. My expertise lies in HTML, CSS, JavaScript, and React. I am a team player with a commitment to continuous learning.
+              Passionate Full-Stack Developer with nearly 2 years of experience. I excel in tackling complex challenges and delivering high-quality results. I specialize in JavaScript, React JS, CSS, HTML, and various front-end frameworks. On the back end, I excel in GraphQL and Firebase, alongside JavaScript, for robust server-side functionalities. 
             </p>
           </div>
           <button className='transition-all btn btn-md bg-accent hover:bg-secondary-hover rounded-xl'>
