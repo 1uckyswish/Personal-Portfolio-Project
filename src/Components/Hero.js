@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
 // import portrait image
-import noelImg from '../assets/img/noelwebp.webp';
+import noelImg from '../assets/img/noelbanner.webp';
 
 function Hero() {
   return (
