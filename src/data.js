@@ -56,7 +56,7 @@ import SkillImg11 from "./assets/img/skills/java.png";
 import SkillImg12 from "./assets/img/skills/sql.png";
 import SkillImg14 from "./assets/img/skills/post.png";
 import SkillImg15 from "./assets/img/skills/intel.png";
-import SkillImg13 from "./assets/img/skills/spirng.png";
+import SkillImg13 from "./assets/img/skills/spring.png";
 
 // testimonial images
 import TestiImage1 from "./assets/img/testimonials/kelsey.webp";
@@ -265,50 +265,50 @@ export const projectsNav = [
 // skill
 export const skills = [
   {
-    image: SkillImg4,
-  },
-  {
     image: SkillImg3,
   },
-  {
-    image: SkillImg2,
+   {
+    image: SkillImg4,
   },
-  {
+   {
     image: SkillImg1,
   },
-  {
-    image: SkillImg5,
+   {
+    image: SkillImg2,
   },
-  {
-    image: SkillImg8,
-  },
-  {
-    image: SkillImg7,
-  },
-  {
-    image: SkillImg6,
-  },
-  {
+   {
     image: SkillImg9,
-  },
-  {
-    image: SkillImg10,
   },
   {
     image: SkillImg11,
   },
   {
-    image: SkillImg12,
-  },
-  {
     image: SkillImg13,
   },
-  {
-    image: SkillImg14,
+   {
+    image: SkillImg12,
   },
-  {
+   {
+    image: SkillImg8,
+  },
+   {
+    image: SkillImg5,
+  },
+   {
+    image: SkillImg6,
+  },
+   {
     image: SkillImg15,
   },
+   {
+    image: SkillImg14,
+  },
+   {
+    image: SkillImg7,
+  },
+   {
+    image: SkillImg10,
+  }
 ];
 
 // services
