@@ -289,22 +289,22 @@ export const skills = [
     image: SkillImg12,
   },
    {
-    image: SkillImg8,
-  },
-   {
     image: SkillImg5,
   },
    {
-    image: SkillImg6,
+    image: SkillImg8,
   },
    {
     image: SkillImg15,
   },
    {
-    image: SkillImg14,
+    image: SkillImg6,
   },
    {
     image: SkillImg7,
+  },
+   {
+    image: SkillImg14,
   },
    {
     image: SkillImg10,
