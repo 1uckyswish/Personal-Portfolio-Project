@@ -52,6 +52,11 @@ import SkillImg7 from "./assets/img/skills/figma.png";
 import SkillImg8 from "./assets/img/skills/graphql-icon(11).png";
 import SkillImg9 from "./assets/img/skills/tailwind.png";
 import SkillImg10 from "./assets/img/skills/bootstrap.png";
+import SkillImg11 from "./assets/img/skills/java.png";
+import SkillImg12 from "./assets/img/skills/sql.png";
+import SkillImg14 from "./assets/img/skills/post.png";
+import SkillImg15 from "./assets/img/skills/intel.png";
+import SkillImg13 from "./assets/img/skills/spring.png";
 
 // testimonial images
 import TestiImage1 from "./assets/img/testimonials/kelsey.webp";
@@ -288,6 +293,21 @@ export const skills = [
   },
   {
     image: SkillImg10,
+  },
+  {
+    image: SkillImg11,
+  },
+  {
+    image: SkillImg12,
+  },
+  {
+    image: SkillImg13,
+  },
+  {
+    image: SkillImg14,
+  },
+  {
+    image: SkillImg15,
   },
 ];
 
