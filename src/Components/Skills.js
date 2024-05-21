@@ -13,7 +13,7 @@ function Skills() {
                 {
                 skills.map((skill, index)=>{
                     return (
-                        <div className='flex items-center justify-center m-3' key={index}>
+                        <div className='flex items-center justify-center m-2' key={index}>
                             <img src={skill.image} alt='skill'/>
                         </div>
                 )})
