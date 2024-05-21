@@ -56,7 +56,7 @@ import SkillImg11 from "./assets/img/skills/java.png";
 import SkillImg12 from "./assets/img/skills/sql.png";
 import SkillImg14 from "./assets/img/skills/post.png";
 import SkillImg15 from "./assets/img/skills/intel.png";
-import SkillImg13 from "./assets/img/skills/spring.png";
+import SkillImg13 from "./assets/img/skills/spirng.png";
 
 // testimonial images
 import TestiImage1 from "./assets/img/testimonials/kelsey.webp";
