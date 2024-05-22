@@ -15,8 +15,8 @@ const BackTopBtn = () => {
   const scrollToTop = () => {
     scroll.scrollToTop();
   };
-  {
-    return (
+  
+ return (
       show && (
         <button
           onClick={() => scrollToTop()}
@@ -26,7 +26,6 @@ const BackTopBtn = () => {
         </button>
       )
     );
-  }
-};
+  };
 
 export default BackTopBtn;

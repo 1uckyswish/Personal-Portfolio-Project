@@ -22,8 +22,6 @@ import DribbbleBrandIcon from "./assets/img/brands/dribbble.png";
 
 // projects images
 import Blur from "./assets/img/projects/motion.webp";
-import Book from "./assets/img/projects/book.webp";
-import House from "./assets/img/projects/house.webp";
 import Lgl from "./assets/img/projects/lgl.webp";
 import Net from "./assets/img/projects/starwars.webp";
 import Store from "./assets/img/projects/shop.webp";

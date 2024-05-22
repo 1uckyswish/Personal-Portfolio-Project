@@ -24,9 +24,5 @@ function Hero() {
     </section>
   )
 }
-
 export default Hero
-{/*   <div className="hidden lg:flex flex-1 justify-end items-end h-full">
-  <img src={noelImg} alt='profile-picture' className="max-w-full max-h-full pt-20" />
-</div> */}
 
