@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom';
 import pdf from ".././assets/img/Noel-Guillen-Resume .pdf"
 
 //import image
