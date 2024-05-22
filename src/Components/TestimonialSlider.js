@@ -1,17 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
 // testimonials data
 import { testimonials } from '../data';
-
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
-
 // Import Swiper styles
 import 'swiper/css';
 import 'swiper/css/pagination';
 import '../swiper.css';
-
 // import required modules
 import { Autoplay, Pagination } from 'swiper';
 
