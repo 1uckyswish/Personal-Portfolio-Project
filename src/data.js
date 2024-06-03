@@ -11,6 +11,9 @@ import {
   FiGlobe,
 } from "react-icons/fi";
 
+import { SiLeetcode } from "react-icons/si";
+
+
 import { SiCodewars } from "react-icons/si";
 
 // companies icons
@@ -96,6 +99,10 @@ export const social = [
   {
     icon: <FiGithub />,
     href: "https://github.com/1uckyswish",
+  },
+  {
+    icon: <SiLeetcode />,
+    href: "https://leetcode.com/u/1uckyswish/",
   },
   {
     icon: <SiCodewars />,
