@@ -201,28 +201,27 @@ export const projectsData = [
     category: "FullStack",
     url: "https://budgetfinancetracker.vercel.app/",
   },
-   {
+    {
     id: "8",
-    image: Sweet,
-    name: "Edamame Recipe Cooking",
-    category: "React",
-    url: "https://edamamefinder.netlify.app/",
-  },
-  {
-    id: "9",
-    image: Lgl,
-    name: "Looking Good Landscape",
-    category: "Vanilla JS",
-    url: "https://lglbyevan.com/",
-  },
-  {
-    id: "10",
     image: Git,
     name: "Github Finder",
     category: "React",
     url: "https://reactgithubapi.vercel.app/",
   },
-  
+   {
+    id: "9",
+    image: Poke,
+    name: "Pokemon Generator",
+    category: "Vanilla JS",
+    url: "https://pokemongeneratorapi.netlify.app/",
+  },
+  {
+    id: "10",
+    image: Lgl,
+    name: "Looking Good Landscape",
+    category: "Vanilla JS",
+    url: "https://lglbyevan.com/",
+  },
   // {
   //   id: "12",
   //   image: Book,
@@ -237,13 +236,13 @@ export const projectsData = [
     category: "React",
     url: "https://weatherbynoel.netlify.app/",
   },
-  {
+   {
     id: "12",
-    image: Poke,
-    name: "Pokemon Generator",
-    category: "Vanilla JS",
-    url: "https://pokemongeneratorapi.netlify.app/",
-  },
+    image: Sweet,
+    name: "Edamame Recipe Cooking",
+    category: "React",
+    url: "https://edamamefinder.netlify.app/",
+  }
 ];
 
 // projects
