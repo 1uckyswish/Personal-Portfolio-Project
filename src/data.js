@@ -149,7 +149,7 @@ export const projectsData = [
     image: Insta,
     name: "Instagram Clone",
     category: "FullStack",
-    url: "https://instagram-site.vercel.app/",
+    url: "https://insta-shot.netlify.app/",
   },
   {
     id: "2",
